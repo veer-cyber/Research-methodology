@@ -1,0 +1,8 @@
+References:
+
+[1] https://flask.palletsprojects.com/en/2.0.x/
+[2] https://opencv.org/
+[3] https://towardsdatascience.com/build-your-own-convolution-neural-network-in-5-mins-4217c2cf964f
+[4] https://www.w3schools.com/html/
+[5] https://www.w3schools.com/css/
+[6] https://www.python.org/doc/
